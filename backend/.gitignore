@@ -1,0 +1,86 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# -------------------------
+# Environment variables (IMPORTANT)
+# -------------------------
+.env
+*.env
+
+# -------------------------
+# OS files
+# -------------------------
+Thumbs.db
+.DS_Store
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+logs/
+events.out.*
+
+# -------------------------
+# IDE settings
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# Python build / cache
+# -------------------------
+*.egg
+*.egg-info/
+dist/
+build/
+*.spec
+
+# -------------------------
+# Model files (VERY IMPORTANT)
+# Prevents large checkpoints from uploading
+# -------------------------
+**/model/
+**/checkpoint-*/
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.onnx
+*.ckpt
+
+# -------------------------
+# Data files to ignore
+# -------------------------
+*.pkl
+*.pickle
+*.npz
+*.npy
+*.db
+
+# Generated embeddings / outputs
+generated_embeddings.csv
+generated_solutions.csv
+
+# -------------------------
+# Node / Frontend (if any)
+# -------------------------
+node_modules/
+build/
+dist/
+
+# -------------------------
+# Temporary files
+# -------------------------
+*.tmp
+*.bak
+*.swp
