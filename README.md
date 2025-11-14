@@ -9,7 +9,8 @@ AI-Powered Knowledge Engine: Provides suggested solutions to tickets based on hi
 Prioritization of Tickets: Assigns priority levels to tickets to ensure critical issues are addressed promptly.
 
 Scalable and Modular Design: Both backend and frontend are designed to handle multiple ticket types and concurrent users efficiently.
-Agile Documentation: https://github.com/SIBISHREE-M/AI-Powered-Knowledge-Engine
+
+Agile Documentation: https://docs.google.com/spreadsheets/d/1kuKjyfqHkFHFf5eTVRo94QYpDtobOd2Z/edit?usp=drive_link&ouid=104478008874123390161&rtpof=true&sd=true
 
 
 
